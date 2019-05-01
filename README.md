@@ -1,2 +1,2 @@
 # kawix-modules
-A collection of modules distributables for use with KawixCore (https://www.npmjs.com/package/@kawix/core)[https://www.npmjs.com/package/@kawix/core]
+A collection of modules distributables (kwa format) for use with KawixCore (https://www.npmjs.com/package/@kawix/core)[https://www.npmjs.com/package/@kawix/core]
